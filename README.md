@@ -6,6 +6,8 @@
 |---|-----|
 |Name|nao honda |
 |Twitter|[@1wa46](https://twitter.com/1wa46)|
+|Qiita|[1wa46](https://qiita.com/settings/account)
+|MENTA|[Honda](https://menta.work/user/354)
 
 ## スキル
 ### 言語
@@ -83,7 +85,8 @@ React Nativeで構築しました。結果97%同一のコードで動作し、3�
 
 ##### 担当
 PWAアプリケーション(iOS側は、ハイブリッドアプリケーション)
-バックエンド(API, websocket)
+バックエンド(API(PHP), websocket(Node.js))
+フロントエンド(Angular6)
 
 ##### 概要
 自社開発のタスク管理アプリケーションをモバイル向けへ対応する為、PWA版を新規構築するプロジェクトへ途中からジョイン。
