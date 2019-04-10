@@ -15,7 +15,6 @@
 - Objective-c
 - PHP
 - Javascript ( + TypeScript)
-- などなど
 
 ### フレームワーク
 - ReSwift
@@ -24,8 +23,7 @@
 - cordove
 - stancilJS
 - React.js
-- Angular
-- などなど
+- Angular 6
 
 ## 強み
 0-1フェーズに設計実装速度
