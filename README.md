@@ -1,6 +1,6 @@
 # 職務経歴書
 
-## 基本情報
+### 基本情報
 
 |key|value|
 |---|-----|
@@ -8,8 +8,8 @@
 |Twitter|[@1wa46](https://twitter.com/1wa46)|
 |Qiita|[honda_h](https://qiita.com/nao_h)
 
-## スキル
-### 言語
+### スキル
+#### 言語
 - Swift
 - Objective-C
 - PHP
@@ -18,7 +18,7 @@
 - HTML
 - CSS
 
-### フレームワーク
+#### フレームワーク
 - ReSwift
 - ReactNative
 - ionic4
@@ -29,22 +29,22 @@
 - Angular 6
 - Ruby on Rails
 
-## 強み
+### 強み
 0-1フェーズに設計実装速度
 
-## やったことはないが興味があるもの
+### やったことはないが興味があるもの
 だれかの課題解決になるサービスを作りたい！携わりたい!
 
-## 職務経歴
+# 職務経歴
 
-### 株式会社マツリカ
+## 株式会社マツリカ
 |key|value|
 |---|-----|
 |期間/待遇|2019/07 - 現在 正社員|
 
 #### [Senses](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjGpYmslO3oAhWOA4gKHbVcA64QFjAAegQICBAC&url=https%3A%2F%2Fproduct-senses.mazrica.com%2F&usg=AOvVaw3rMoUSUxdqgoT53NuKlHiP)に関わるサービス開発
 
-### 2015/10 - 現在 : 株式会社カタリストシステム
+## 2015/10 - 現在 : 株式会社カタリストシステム
 
 |key|value|
 |---|-----|
@@ -75,8 +75,7 @@ Cocoapods, Fastlane|
 |使用技術|AWS, Cent OS, Apache, MySQL, PHP, HTML, CSS, Nodo.js, Swift, Cocoapods, OpenCV, C++|
 |概要|主にユーザーアプリケーション開発を担当。 コア機能として画像加工(フィルター、透過処理)機能があり、C++でOpenCVを扱い、Objective-cでLibraries化し、汎用的に使えるように構築しました。|
 
-
-### KDDIエボルバ
+## KDDIエボルバ
 
 |key|value|
 |---|-----|
@@ -89,7 +88,7 @@ Cocoapods, Fastlane|
 |使用技術|Objective-c, Swift, SQLite, Realm|
 |概要|社内向けへ公開していたAndroidアプリケーションを、iOSアプリへ移植を担当。iOSのアップデート合わせて、Objective-c -> Swiftへ移植を行いました。|
 
-#### ご当地アプリアプリケーション開発
+### ご当地アプリアプリケーション開発
 
 |key|value|
 |----|-----|
@@ -103,11 +102,10 @@ Cocoapods, Fastlane|
 |使用技術|Objective-c, SQLite|
 |概要|社内向けへ公開していたAndroidアプリケーションを、iOSアプリへ移植を担当。|
 
-### 東陽電気株式会社
+## 東陽電気株式会社
 
 |key|value|
 |---|-----|
 |期間/待遇|2010/03 - 2012/01 正社員|
 
 #### 家電製品販売
-
