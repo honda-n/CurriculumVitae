@@ -6,20 +6,23 @@
 |---|-----|
 |Name|nao honda |
 |Twitter|[@1wa46](https://twitter.com/1wa46)|
-|Qiita|[1wa46](https://qiita.com/settings/account)
-|MENTA|[Honda](https://menta.work/user/354)
+|Qiita|[honda_h](https://qiita.com/nao_h)
 
 ## スキル
 ### 言語
 - Swift
-- Objective-c
+- Objective-C
 - PHP
+- Ruby
 - Javascript ( + TypeScript)
+- HTML
+- CSS
 
 ### フレームワーク
 - ReSwift
 - ReactNative
 - ionic4
+- Capaciter
 - cordove
 - stancilJS
 - React.js
