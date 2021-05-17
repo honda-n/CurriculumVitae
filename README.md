@@ -43,10 +43,9 @@
 |---|-----|
 |期間/待遇|2019/07 - 現在 正社員|
 |仕様技術|Swift / Kotlin / Ruby on Rails / CircleCI / fastlane / CocoaPods / Firebase |
+|概要|自社SFAアプリケーションにおけるiOS/Androidアプリケーション開発を担当。チームリードとして、開発、リリースマネージメント、運用、保守を行っています。|
 
-#### [Senses](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjGpYmslO3oAhWOA4gKHbVcA64QFjAAegQICBAC&url=https%3A%2F%2Fproduct-senses.mazrica.com%2F&usg=AOvVaw3rMoUSUxdqgoT53NuKlHiP)に関わるサービス開発
-
-## 2015/10 - 現在 : 株式会社カタリストシステム
+## 株式会社カタリストシステム
 
 |key|value|
 |---|-----|
@@ -110,3 +109,11 @@
 |---|-----|
 |期間/待遇|2010/03 - 2012/01 正社員|
 |概要|地デジ化に伴う、家電繁忙期を経験しました。|
+
+
+# 個人開発
+
+|key|value|
+|---|-----|
+|iOS|[Run.M - タップで距離計算](https://apps.apple.com/jp/app/run-m-%E3%82%BF%E3%83%83%E3%83%97%E3%81%A7%E8%B7%9D%E9%9B%A2%E8%A8%88%E7%AE%97/id766073457) |
+|macOS|[VariableGen for Xcode](https://apps.apple.com/jp/app/variablegen-for-xcode/id1531264947?mt=12)|
