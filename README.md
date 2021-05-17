@@ -1,6 +1,6 @@
 # 職務経歴書
 
-### 基本情報
+## 基本情報
 
 |key|value|
 |---|-----|
@@ -8,32 +8,33 @@
 |Twitter|[@1wa46](https://twitter.com/1wa46)|
 |Qiita|[honda_h](https://qiita.com/nao_h)
 
-### スキル
-#### 言語
-- Swift
-- Objective-C
-- PHP
-- Ruby
-- Javascript ( + TypeScript)
-- HTML
-- CSS
+## スキル
+### 言語
 
-#### フレームワーク
-- ReSwift
-- ReactNative
-- ionic4
-- Capaciter
-- cordove
-- stancilJS
-- React.js
-- Angular 6
-- Ruby on Rails
+|言語|実務経験(年)|
+|---|-----|
+|Swift| 6|
+|Objective-C|1.5 |
+|Kotlin|2|
+|PHP|3 |
+|Ruby| 2 |
+|Javascript ( + TypeScript)|0.5 |
+|HTML| 1 |
+|CSS|1|
 
-### 強み
-0-1フェーズに設計実装速度
-
-### やったことはないが興味があるもの
-だれかの課題解決になるサービスを作りたい！携わりたい!
+### フレームワーク
+|フレームワーク|実務経験(年)|
+|---|-----|
+|Ruby on Rails|2|
+|RxSwift|0.3 |
+|ReSwift|1 |
+|ReactNative|1 |
+|ionic4|0.3|
+|Capaciter|0.3|
+|cordove|0.3|
+|stancilJS|0.3|
+|React.js|0.3|
+|Angular 6|0.3|
 
 # 職務経歴
 
@@ -41,6 +42,7 @@
 |key|value|
 |---|-----|
 |期間/待遇|2019/07 - 現在 正社員|
+|仕様技術|Swift / Kotlin / Ruby on Rails / CircleCI / fastlane / CocoaPods / Firebase |
 
 #### [Senses](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjGpYmslO3oAhWOA4gKHbVcA64QFjAAegQICBAC&url=https%3A%2F%2Fproduct-senses.mazrica.com%2F&usg=AOvVaw3rMoUSUxdqgoT53NuKlHiP)に関わるサービス開発
 
@@ -54,26 +56,26 @@
 |key|value|
 |---|-----|
 |使用技術|AWS, Cent OS, Apache, MySQL, Nginx, PHP, Node.js(Express), socket.io, ionic4, TypeScript, AngularJS, Angular 6, SASS, HTML, Cordova, Capacitor, Fastlane, Gitab runner|
-|概要|モバイル向けへ対応する為、PWA版を新規構築するプロジェクトへ途中からジョイン。iOS, AndroidにおけるPWAアプリケーションの調査、実装を担当後、ビジネスサイドの優先度変更により、Webアプリケーション開発を経験しました。|
+|概要|モバイル向けへサービスを対応する為、PWA版の新規構築プロジェクトにジョイン。iOS, AndroidにおけるPWAアプリケーションの調査、実装を担当。その後、ビジネスサイドの優先度変更により、Webアプリケーション側の開発を経験しました。|
 
 #### B to B to C 開発(モビリティ系)
 |key|value|
 |---|-----|
-|使用技術|AWS, Cent OS, Apache, MySQL, PHP, HTML, CSS, React.js, Firebase, Swift, React Native,
-Cocoapods, Fastlane|
-|概要|立ち上げ時から参画。顧客管理画面をPHPとReact.jsを用いて構築後、メインでユーザーアプリケーション(ネイティブ)に開発を担当。その後、業務アプリはTL職任されました。 要件上、iOSとAndroidの構築が必要な関係上、人員、管理の観点から、1ソースで構築することを検討しました。検討の結果、Reactの経験者が社内に多く、バフォーマンスの問題も検証の結果問題ないと判断し、 React Nativeで構築しました。結果97%同一のコードで動作し、3ヶ月程度運用していますが、問題なく要望に対応し、改善をおこなうことが出来ています。|
+|使用技術|AWS, CentOS, Apache, MySQL, PHP, HTML, CSS, React.js, Firebase, Swift, React Native, Cocoapods, Fastlane|
+|概要|プロジェクトキックオフ時から参画。顧客管理画面をPHPとReact.jsを用いて構築後、メインでユーザーアプリケーション(ネイティブ)開発を担当。その後、作業者向けモバイルアプリではTL職任されました。 Reactの経験者が社内に多く、パフォーマンスの問題も検証の結果問題ないと判断し、 1ソースでクロスプラットフォームで構築できるReact Nativeで実装を行いました。結果97%同一のコードで動作し、3ヶ月程度運用していますが、問題なく追加要望に対応し改善をおこなうことが出来ています。|
 
 #### 不動産管理システム
 |key|value|
 |---|-----|
-|使用技術|AWS, Cent OS, Apache, MySQL, PHP, HTML, CSS, React.js, jQuery|
-|概要|管理画面開発を担当。旧システムからの移行案件のため、後方互換を保ちつつの開発の為、既存コードの仕様から仕様把握、移植を行いました。 フロント側は、jQueryで構築されていましたが、React.jsを使ってリプレイスすることで、ES5で記述可能となり、メンテナンス性が向上することが出来ました。|
+|使用技術|AWS, CentOS, Apache, MySQL, PHP, HTML, CSS, React.js, jQuery|
+|概要|管理画面開発を担当。旧システムからの移行案件の為、後方互換を保ちつつの開発となりました。既存コードベースから仕様から仕様把握、移植、再実装を担当。
+フロント側は、アーキテクチャから見直しを行い、jQuery -> React.jsへリプレイスを行いメンテナンス性が向上することが出来ました。|
 
 #### 販促アプリケーション開発
 |key|value|
 |---|-----|
 |使用技術|AWS, Cent OS, Apache, MySQL, PHP, HTML, CSS, Nodo.js, Swift, Cocoapods, OpenCV, C++|
-|概要|主にユーザーアプリケーション開発を担当。 コア機能として画像加工(フィルター、透過処理)機能があり、C++でOpenCVを扱い、Objective-cでLibraries化し、汎用的に使えるように構築しました。|
+|概要|主にtoC向けモバイルアプリ開発を担当。 コア機能として画像加工(フィルター、透過処理)機能があり、試行錯誤の上、OpenCVを用いてC++で実装をしました。又、iOSで利用しやすいようにObjective-Cで Static Libraries化を行い社内ライブラリとして汎用化をしました。|
 
 ## KDDIエボルバ
 
@@ -107,5 +109,4 @@ Cocoapods, Fastlane|
 |key|value|
 |---|-----|
 |期間/待遇|2010/03 - 2012/01 正社員|
-
-#### 家電製品販売
+|概要|地デジ化に伴う、家電繁忙期を経験しました。|
