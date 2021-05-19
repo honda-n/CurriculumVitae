@@ -5,8 +5,9 @@
 |key|value|
 |---|-----|
 |Name|nao honda |
+|Github|[honda-n](https://qiita.com/nao_h)|
+|Qiita|[nao_h](https://qiita.com/nao_h)|
 |Twitter|[@1wa46](https://twitter.com/1wa46)|
-|Qiita|[honda_h](https://qiita.com/nao_h)
 
 ## スキル
 ### 言語
