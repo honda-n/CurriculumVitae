@@ -8,6 +8,7 @@
 |Github|[honda-n](https://qiita.com/nao_h)|
 |Qiita|[nao_h](https://qiita.com/nao_h)|
 |Twitter|[@1wa46](https://twitter.com/1wa46)|
+|Linkedin|[honda](https://www.linkedin.com/in/nao-honda-75530b1b0/)|
 
 ## スキル
 ### 言語
